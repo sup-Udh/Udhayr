@@ -13,13 +13,11 @@ export default function Home() {
 
     
 
-    <div className={styles.container}>
+    <div>
       <body className="bg-gray-800">
 
       <nav className="flex justify-center space-x-4">
-        <Link href='/'>
         <a  className="font-bold px-3 py-2 text-gray-700 rounded-lg hover:bg-gray-100 hover:text-gray-900">Udhay</a>
-        </Link>
 
 
 <Link href="/Work">
@@ -39,7 +37,7 @@ export default function Home() {
           <h1 className="text-white text-center pt-10">
             <span className="text-3xl font-mono hover:font-serif">Hi,</span>
             <p className="text-3xl font-mono hover:font-serif text-center">
-            <p className={styles.line1}>Im Udhay Rajeev</p>
+            <p>Im Udhay Rajeev</p>
             </p>
           </h1>
 
