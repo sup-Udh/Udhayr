@@ -114,6 +114,14 @@ export default function Work(){
 </p>
 <p  className={styles.p}>Planning On Building A Social Media Platform For People To Chill and Hangout Coming Soon! Stay tuned!</p>
 
+<p className={styles.p}>
+    <h2 className="text-lg font-bold underline">Internships</h2>
+
+    <span>Took Up a Internship with the <Link href="https://www.koshishek.com/"><a><p className="underline ">Koshish Ek Choti Si Team</p></a></Link> I work as the Front-end Developer ther. Do Check  Out them!
+    </span>
+
+</p>
+
   
 </div>
 
