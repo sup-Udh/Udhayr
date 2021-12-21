@@ -47,7 +47,7 @@ export default function Home() {
         <div>
           <p className='text-white flex justify-center pt-10 mt-10 font-bold '>
           I enjoy solving complex problems.<br />
-          Frequently praised as `Never Stop coding` by my peers, <br />
+          Frequently praised as Never Stop coding by my peers, <br />
           I can be relied upon to help your company < br />achieve its goals by providing sustainable and scalable solutions.<br/>
           </p>
         </div>
